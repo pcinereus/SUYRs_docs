@@ -7,3 +7,5 @@ resources/Rmarkdown-examples/Example*.pdf
 resources/Rmarkdown-examples/Example*.docx
 resources/Rmarkdown-examples/Example*.png
 resources/Rmarkdown-examples/base-r.png
+.Rproj.user
+*.Rproj
