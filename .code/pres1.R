@@ -55,6 +55,33 @@ library("tidyverse")
 ## install.packages("broom.mixed") # for tidy outputs from mixed models
 
 
+## ----library1a2, results='markdown', eval=FALSE-------------------------------
+## install.packages("car")         # for regression diagnostics
+## install.packages("ggfortify")   # for model diagnostics
+## install.packages("DHARMa")      # for model diagnostics
+## install.packages("see")         # for model diagnostics
+## install.packages("broom")       # for consistent, tidy outputs
+## install.packages("knitr")       # for knitting documents and code
+## install.packages("glmmTMB")     # for model fitting
+## install.packages("effects")     # for partial effects plots
+## install.packages("ggeffects")   # for partial effects plots
+## install.packages("emmeans")     # for estimating marginal means
+## install.packages("modelr")      # for auxillary modelling functions
+## install.packages("performance") # for model diagnostics
+## install.packages("datawizard")  # for data properties
+## install.packages("insight")     # for model information
+## install.packages("sjPlot")      # for outputs
+
+
+## ----library1b2, results='markdown', eval=FALSE-------------------------------
+## install.packages("report")      # for reporting methods/results
+## install.packages("easystats")   # framework for stats, modelling and visualisation
+## install.packages("patchwork")   # for combining multiple plots together
+## install.packages("modelbased")  # for model info
+## install.packages("broom.mixed") # for tidy outputs from mixed models
+## install.packages("tidybayes")   # for tidy outputs from mixed models
+
+
 ## ----namespaces, results='markdown', eval=FALSE-------------------------------
 ## stats::filter()
 ## dplyr::filter()
